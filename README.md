@@ -1,4 +1,4 @@
 # primer-repo
 Este es mi primer repositorio.
-## Practicando-git
+## Description
 Espero aprender mucho!
