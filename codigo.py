@@ -1,1 +1,2 @@
-print("Hola mundo, " + "estoy practicando git!!")
+saludo = "Hola amigos de git."
+print(saludo)
