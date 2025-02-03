@@ -1,6 +1,6 @@
 # Markdown
-## Que es?
-### Por que utilizarlo?
+## ¿Qué es?
+### ¿Por qué utilizarlo?
 
 
 Markdown es un lenguaje ligero para **formatear texto** utilizado en *Github*.
@@ -9,7 +9,7 @@ Markdown es un lenguaje ligero para **formatear texto** utilizado en *Github*.
 - Es fácil de usar.
 - No necesitas usar HTML.
 
-Para más información puedes visitar [github](https://github.com/)
+Para más información puedes visitar [github](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 ```python
 print("¡Ya sé usar Markdown!")
